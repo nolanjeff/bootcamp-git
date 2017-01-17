@@ -3,7 +3,7 @@ canine
 wolf
 bark
 bow wow
-pikachu
+corgie and pikachu
 charmander
 squirtle
 bulbasaur
